@@ -1,0 +1,3 @@
+[run]
+source = django_summernote
+omit = */test*
